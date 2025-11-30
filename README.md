@@ -98,7 +98,6 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-<img width="621" height="340" alt="image" src="https://github.com/user-attachments/assets/a2a7577d-05c5-4322-beb0-3262e657e24e" />
 
 
 # RESULT:
