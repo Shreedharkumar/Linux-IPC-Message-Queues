@@ -98,7 +98,11 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
+<img width="882" height="216" alt="image" src="https://github.com/user-attachments/assets/6eb54d42-81dc-4371-a4a5-26e8e779dc10" />
 
+<img width="1133" height="258" alt="image" src="https://github.com/user-attachments/assets/8b19b73a-52d2-4187-9661-471532705eb7" />
+
+<img width="1145" height="186" alt="image" src="https://github.com/user-attachments/assets/966016e4-02f5-49ce-aa75-0b5b456358f1" />
 
 # RESULT:
 The programs are executed successfully.
